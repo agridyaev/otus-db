@@ -1,0 +1,4 @@
+litecli==1.8.0
+mysql-connector-python==8.0.28
+mariadb==1.0.11
+SQLAlchemy==1.4.35
